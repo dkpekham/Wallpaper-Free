@@ -1,0 +1,257 @@
+{
+    "Collections":[
+        {
+            "name":"Splash",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+         {
+            "name":"Animal",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
+            "name":"Heros",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
+            "name":"Quote",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
+            "name":"Simple",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
+            "name":"Quirky",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+        },
+        {
+            "name":"Liquid",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+	{
+            "name":"Youtubers",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },    
+        {
+            "name":"Flower",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+        {
+            "name":"Random",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+        }
+    ],
+    "Wallpapers":[
+     	   {
+			"name": "AbstractGate",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/JqdgReB.png",
+			"thumbUrl": "https://i.imgur.com/twuJIUi.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "beardskull",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Ty7I10f.png",
+			"thumbUrl": "https://i.imgur.com/4jcOlIn.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+	 {
+			"name": "AbstractsBlues",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/mqKn3m7.png",
+			"thumbUrl": "https://i.imgur.com/coCRiq9.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "angrysun",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/rIjDGYY.png",
+			"thumbUrl": "https://i.imgur.com/4lQSwTV.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "ClimbingCave",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/5uOuJ6H.png",
+			"thumbUrl": "https://i.imgur.com/DxRX9TA.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "christmascard",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/JQnnvJh.png",
+			"thumbUrl": "https://i.imgur.com/xAjvH7R.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "BatTree",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/NAOUpxK.png",
+			"thumbUrl": "https://i.imgur.com/fagrDOo.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "canolaflower",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/eKY4ZPR.png",
+			"thumbUrl": "https://i.imgur.com/zGtLdXR.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "BullFIght",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/jKgJI3y.png",
+			"thumbUrl": "https://i.imgur.com/7BRSi6Y.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "BlueTiger",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/kJZS6IU.png",
+			"thumbUrl": "https://i.imgur.com/ttq7UmS.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "BuddhasTheMotivation",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/w1TFr7Q.png",
+			"thumbUrl": "https://i.imgur.com/z3YtS4a.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+	   {
+			"name": "frozenpalmtree",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/8ORfhFo.png",
+			"thumbUrl": "https://imgur.com/KyTBu3X",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "candlecard",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ipIWM8n.png",
+			"thumbUrl": "https://i.imgur.com/0jCA3q6.png",
+			"collections": "christmas",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "lonlyboatss",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Z5eVJOu.png",
+			"thumbUrl": "https://i.imgur.com/BvztZDe.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "cattleinfield",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Lq0wAmi.png",
+			"thumbUrl": "https://i.imgur.com/sKA0rAp.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "snowmancard",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/LWcQRtA.png",
+			"thumbUrl": "https://i.imgur.com/osDiLhL.png",
+			"collections": "christmas",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "coldvillage",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/T0bFnVp.png",
+			"thumbUrl": "https://i.imgur.com/bBMWNHe.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "automnleaffrozen",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Vzv5LwD.png",
+			"thumbUrl": "https://i.imgur.com/ODxAnS9.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "greetingcardzz",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/jw5sB7m.png",
+			"thumbUrl": "https://i.imgur.com/tg6lbLY.png",
+			"collections": "christmas",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "woodensnowman",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/NfIl6mn.png",
+			"thumbUrl": "https://i.imgur.com/jGwbYRz.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+      "downloadable":false,
+			"copyright": "Personal Use"
+		}
+
+    ]
+}
