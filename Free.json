@@ -52,37 +52,37 @@
         }
     ],
     "Wallpapers":[
-     	   {
+     	      {
 			"name": "AbstractGate",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/JqdgReB.png",
 			"thumbUrl": "https://i.imgur.com/twuJIUi.png",
 			"collections": "nature",
 			"dimensions": "1440x2560",
-      "downloadable":false,
+      			"downloadable":false,
 			"copyright": "Personal Use"
 		},
-			   {
+	        {
 			"name": "beardskull",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/Ty7I10f.png",
 			"thumbUrl": "https://i.imgur.com/4jcOlIn.png",
 			"collections": "nature",
 			"dimensions": "1440x2560",
-      "downloadable":false,
+    		        "downloadable":false,
 			"copyright": "Personal Use"
 		},
-	 {
+	        {
 			"name": "AbstractsBlues",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/mqKn3m7.png",
 			"thumbUrl": "https://i.imgur.com/coCRiq9.png",
 			"collections": "nature",
 			"dimensions": "1440x2560",
-      "downloadable":false,
+      			"downloadable":false,
 			"copyright": "Personal Use"
 		},
-			   {
+	        {
 			"name": "angrysun",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/rIjDGYY.png",
@@ -229,7 +229,7 @@
 			"thumbUrl": "https://i.imgur.com/ODxAnS9.png",
 			"collections": "nature",
 			"dimensions": "1440x2560",
-      "downloadable":false,
+     		        "downloadable":false,
 			"copyright": "Personal Use"
 		},
 		{
@@ -239,7 +239,7 @@
 			"thumbUrl": "https://i.imgur.com/tg6lbLY.png",
 			"collections": "christmas",
 			"dimensions": "1440x2560",
-      "downloadable":false,
+      			"downloadable":false,
 			"copyright": "Personal Use"
 		},
 		{
@@ -249,7 +249,7 @@
 			"thumbUrl": "https://i.imgur.com/jGwbYRz.png",
 			"collections": "nature",
 			"dimensions": "1440x2560",
-      "downloadable":false,
+      			"downloadable":false,
 			"copyright": "Personal Use"
 		}
 
