@@ -52,6 +52,106 @@
         }
     ],
     "Wallpapers":[
+	         {
+			"name": "brownwood",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/oXJn4BS.png",
+			"thumbUrl": "https://i.imgur.com/ZWoMPNq.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "greefreefrog",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/yx9omkW.png",
+			"thumbUrl": "https://i.imgur.com/u6bfjHd.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "darkchocolates",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/i3qqMOZ.png",
+			"thumbUrl": "https://i.imgur.com/G7oVP53.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "flowingstone",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/z0LbmBs.png",
+			"thumbUrl": "https://i.imgur.com/hXSXt99.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "oceandive",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/KGm7gMM.png",
+			"thumbUrl": "https://i.imgur.com/FFVuylL.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "frozenisland",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Lu4BTRc.png",
+			"thumbUrl": "https://i.imgur.com/y8l72iX.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "hardernedice",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/aumUO4x.png",
+			"thumbUrl": "https://i.imgur.com/ga3pKL9.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "frozenplantpot",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/x9i9Y0Q.png",
+			"thumbUrl": "https://i.imgur.com/sfq5PeN.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "minimalsummertree",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Yq71p7X.png",
+			"thumbUrl": "https://i.imgur.com/g3mnPQl.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "littlemushroom",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/QhbbyUJ.png",
+			"thumbUrl": "https://i.imgur.com/6l8cuKd.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
 	    	{
 			"name": "badsmoke",
 			"author": "Dipak",
