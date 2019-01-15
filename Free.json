@@ -52,7 +52,107 @@
         }
     ],
     "Wallpapers":[
-	         {
+	    	 {
+			"name": "GreenValleBlueLake",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/hWI8z4j.png",
+			"thumbUrl": "https://i.imgur.com/AZuL8QH.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+		        "downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "SummerBlueBeach",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/nPeG2K5.png",
+			"thumbUrl": "https://i.imgur.com/wVxmUB2.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+		        "downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "ValleyBehindLake",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/pZtWTHA.png",
+			"thumbUrl": "https://i.imgur.com/MTXPrH7.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+		        "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "GlowingFog",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/7BAZGvw.png",
+			"thumbUrl": "https://i.imgur.com/7jAXBQt.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "WoodenTower",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/cppCDX5.png",
+			"thumbUrl": "https://i.imgur.com/aIYwnIY.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SmokyLake",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/RY7NfU5.png",
+			"thumbUrl": "https://i.imgur.com/hJdrFJh.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SummerOcean",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/vQvE1kL.png",
+			"thumbUrl": "https://i.imgur.com/ng0ojlw.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "EveningSunSet",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/vLvGl9D.png",
+			"thumbUrl": "https://i.imgur.com/ddQAIOu.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "HangingMountains",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ESRABal.png",
+			"thumbUrl": "https://i.imgur.com/pAIxwyu.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "MountainValleyz",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/GA1cxRK.png",
+			"thumbUrl": "https://i.imgur.com/BwXoICp.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+		        "downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
 			"name": "brownwood",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/oXJn4BS.png",
