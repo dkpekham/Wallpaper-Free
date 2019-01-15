@@ -53,6 +53,106 @@
     ],
     "Wallpapers":[
 	    	 {
+			"name": "bigpetenlake",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ENrJI4m.png",
+			"thumbUrl": "https://i.imgur.com/kX2HngG.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			   "downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "BlueSeaShore",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ZbltAr0.png",
+			"thumbUrl": "https://i.imgur.com/oaTYyIS.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+		        "downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "GreenWater",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/HOsVYkw.png",
+			"thumbUrl": "https://i.imgur.com/RbkG08d.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+		        "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "bisoncrossingroad",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/fTAUVfB.png",
+			"thumbUrl": "https://i.imgur.com/gXP3PbX.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "frostleaf",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ocSCMp0.png",
+			"thumbUrl": "https://i.imgur.com/1jahfLY.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "OrangeSunSet",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/LPiO0G6.png",
+			"thumbUrl": "https://i.imgur.com/ifBxYUy.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "northernlights",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Il6avqt.png",
+			"thumbUrl": "https://i.imgur.com/P8WJacY.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "DirtyRiver",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/iAlJNro.png",
+			"thumbUrl": "https://i.imgur.com/zK8Y4CW.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "wisepuppy",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/I5ApTNV.png",
+			"thumbUrl": "https://i.imgur.com/mNvpyqN.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ColdSun",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/wTePdKq.png",
+			"thumbUrl": "https://i.imgur.com/sY8DFRQ.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	    	 {
 			"name": "GreenValleBlueLake",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/hWI8z4j.png",
