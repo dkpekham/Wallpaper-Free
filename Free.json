@@ -54,13 +54,114 @@
     "Wallpapers":[
 	    
 	    	 {
+			"name": "BlackMounts",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/BYuhTtr.png",
+			"thumbUrl": "https://i.imgur.com/lRwcTME.png",
+			"collections": "nature,travel",
+			"dimensions": "1440x2560",
+			 "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Flat Sea Two",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ohnc1lI.png",
+			"thumbUrl": "https://i.imgur.com/hOyvEBk.png",
+			"collections": "nature,travel,cute",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Brust",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/WcOeXKD.jpg",
+			"thumbUrl": "https://i.imgur.com/h2r6Rh5.png",
+			"collections": "technology,patterns",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BlueStarsWay",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/3SDFWmb.png",
+			"thumbUrl": "https://i.imgur.com/qi7VxXs.png",
+			"collections": "nature,travel",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "Blue Four",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Y7EKF8H.jpg",
+			"thumbUrl": "https://i.imgur.com/itWvF73.png",
+			"collections": "colorful,patterns",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "FishingBoat",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/bgzRT6c.png",
+			"thumbUrl": "https://i.imgur.com/3atl5Kn.png",
+			"collections": "nature,travel",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Box One0",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/WMAE9fc.png",
+			"thumbUrl": "https://i.imgur.com/O37NCbe.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Blue Two",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Wz4E3ub.jpg",
+			"thumbUrl": "https://i.imgur.com/qfkIN2Q.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "BlueWatercolor",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/bN8zOOE.png",
+			"thumbUrl": "https://i.imgur.com/rwi4k8Z.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BlackGarden",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/GzICE17.png",
+			"thumbUrl": "https://i.imgur.com/K5sxs78.png",
+			"collections": "nature,cute,colorful",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	    
+	    	{
 			"name": "ColorfulSmoke",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/3xuYuYF.png",
 			"thumbUrl": "https://i.imgur.com/XeMbdSp.png",
 			"collections": "colorful,pastel",
 			"dimensions": "1440x2560",
-			 "downloadable":false,
+			"downloadable":false,
 			"copyright": "Personal Use"
 		},
 		{
