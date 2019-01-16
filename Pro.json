@@ -52,7 +52,98 @@
         }
     ],
     "Wallpapers":[
-	    	   {
+	    	 {
+			"name": "ColorfulSmoke",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/3xuYuYF.png",
+			"thumbUrl": "https://i.imgur.com/XeMbdSp.png",
+			"collections": "colorful,pastel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "AbstractCircles",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/m4yh9sw.png",
+			"thumbUrl": "https://i.imgur.com/EFtKlXa.png",
+			"collections": "cute,colorful,art",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "MilkyWayOverCity",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ypMNXdd.png",
+			"thumbUrl": "https://i.imgur.com/yMqUXqO.png",
+			"collections": "illustrations,technology,patterns",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "BrightYellowWall",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/mYeBIea.png",
+			"thumbUrl": "https://i.imgur.com/KhDYUzf.png",
+			"collections": "colorful,pastel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "DirtyFloatingShip",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/cOnbeQv.png",
+			"thumbUrl": "https://i.imgur.com/aIrDKDI.png",
+			"collections": "nature,travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "DawnSunRise",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/6XPwGXY.png",
+			"thumbUrl": "https://i.imgur.com/7L5vMWG.png",
+			"collections": "nature,travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "WaterColormix",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/56Ow3PD.png",
+			"thumbUrl": "https://i.imgur.com/J0FQgsz.png",
+			"collections": "colorful,cute",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "MilkyWayOverOcean",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/m1CG78K.png",
+			"thumbUrl": "https://i.imgur.com/Ooo6BxA.png",
+			"collections": "technology,patterns",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "VintageLock",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/3viMnEw.png",
+			"thumbUrl": "https://i.imgur.com/Xy4F7YC.png",
+			"collections": "travel,sentimental",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "PinkPaintedGrunj",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/hSGCuGi.png",
+			"thumbUrl": "https://i.imgur.com/MIOX68k.png",
+			"collections": "cute,colorful",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		
+	    	{
 			"name": "bigpetenlake",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/ENrJI4m.png",
@@ -61,7 +152,7 @@
 			"dimensions": "1440x2560",
 			"copyright": "Personal Use"
 		},
-	    {
+	        {
 			"name": "BlueSeaShore",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/ZbltAr0.png",
@@ -70,7 +161,7 @@
 			"dimensions": "1440x2560",
 			"copyright": "Personal Use"
 		},
-	    {
+	        {
 			"name": "GreenWater",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/HOsVYkw.png",
