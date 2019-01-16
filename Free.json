@@ -54,6 +54,207 @@
     "Wallpapers":[
 	    
 	    	 {
+			"name": "AbstractGeomatry",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/829djRL.png",
+			"thumbUrl": "https://i.imgur.com/k139C4k.png",
+			"collections": "cute,random,patterns",
+			"dimensions": "1440x2560",
+			 "downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "BrownNoteBook",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/vjsSMvi.png",
+			"thumbUrl": "https://i.imgur.com/8hSoIQk.png",
+			"collections": "patterns,illustrations,cute",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BottleWithHearts",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/3AOQOFS.png",
+			"thumbUrl": "https://i.imgur.com/0A4TrJo.png",
+			"collections": "cute",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ChemistryJar",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/SN1cu6V.png",
+			"thumbUrl": "https://i.imgur.com/ORuVPgm.png",
+			"collections": "illustrations,cute",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ChesmistryExperiment",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/lkA6iVR.png",
+			"thumbUrl": "https://i.imgur.com/RPt16hO.png",
+			"collections": "technology,modern",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "CandleLight",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/1DGGa1a.png",
+			"thumbUrl": "https://i.imgur.com/OYTtVIC.png",
+			"collections": "random,travel,colorful",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "PaperClipboard",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/44cv87l.png",
+			"thumbUrl": "https://i.imgur.com/6FhbCJS.png",
+			"collections": "cute,patterns",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "PleasentPeace",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/hpguMIo.png",
+			"thumbUrl": "https://i.imgur.com/L3fn5gS.png",
+			"collections": "nature,cute",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ChristmanLight",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/kSpy7Gd.png",
+			"thumbUrl": "https://i.imgur.com/jrXevcE.png",
+			"collections": "christmas,cute,sentimental",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "LoveInAutumn",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/qtC6yJy.png",
+			"thumbUrl": "https://i.imgur.com/QBMNo4e.png",
+			"collections": "nature,cute,seasonal",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "StylishSunglasses",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/2AQZvAi.png",
+			"thumbUrl": "https://i.imgur.com/BAnj5ly.png",
+			"collections": "modern",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SparkleLight",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/AlQQ5Wb.png",
+			"thumbUrl": "https://i.imgur.com/Ekz0TCu.png",
+			"collections": "christmas",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "LightsInJar",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/pBCnh3l.png",
+			"thumbUrl": "https://i.imgur.com/soM8k3p.png",
+			"collections": "christmas",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "LovelyJar",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/QMe93UQ.png",
+			"thumbUrl": "https://i.imgur.com/C3xlQWK.png",
+			"collections": "cute",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "CupOfCoffee",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/m9x5Slu.png",
+			"thumbUrl": "https://i.imgur.com/y09DLBH.png",
+			"collections": "nature,sports",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "YellowLightBulb",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/46Fbdwg.png",
+			"thumbUrl": "https://i.imgur.com/4TLWhRW.png",
+			"collections": "technology",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "SwimFit",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/PXEDWcf.png",
+			"thumbUrl": "https://i.imgur.com/mSiJl3c.png",
+			"collections": "nature,cute,travel",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TeaOnWood",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/brNatg6.png",
+			"thumbUrl": "https://i.imgur.com/VPcmh9E.png",
+			"collections": "Entertainment",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "YellowFrame",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/0HSrRV1.png",
+			"thumbUrl": "https://i.imgur.com/sowJfan.png",
+			"collections": "cute",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "FalseInjection",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/3gwwkfC.png",
+			"thumbUrl": "https://i.imgur.com/eHKTTFz.png",
+			"collections": "technology",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	    
+	    	{
 			"name": "BlackMounts",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/BYuhTtr.png",
