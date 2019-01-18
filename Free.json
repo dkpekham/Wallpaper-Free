@@ -53,6 +53,106 @@
     ],
     "Wallpapers":[
 	    	 {
+			"name": "BlueFishFarm",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/sXBKkMA.png",
+			"thumbUrl": "https://i.imgur.com/ZjSHj2i.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "GrandSunShine",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Ly306IF.png",
+			"thumbUrl": "https://i.imgur.com/C3oYzVv.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "FloatingRedLeaves",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/NAK9mr5.png",
+			"thumbUrl": "https://i.imgur.com/KcJJnSq.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "OrangeSunValley",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/aEizZWd.png",
+			"thumbUrl": "https://i.imgur.com/HKl1Grl.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "BrownOldDeer",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/RbLKHmt.png",
+			"thumbUrl": "https://i.imgur.com/c94gSmv.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+		        "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "RockAndOcean",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/3BOsCyt.png",
+			"thumbUrl": "https://i.imgur.com/Lio2UKX.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "WinterForestDeer",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/aK3qcgd.png",
+			"thumbUrl": "https://i.imgur.com/OKlS3IP.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "OceanRoad",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/fJKNoRC.png",
+			"thumbUrl": "https://i.imgur.com/57sYh3y.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "WalkingPanda",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/hM7w8Db.png",
+			"thumbUrl": "https://i.imgur.com/bXQEtzT.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "LightfulCity",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/KpCLNMv.png",
+			"thumbUrl": "https://i.imgur.com/H0EWE8b.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	    	 {
 			"name": "FunnyCuteSquirel",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/dpFBKi8.png",
