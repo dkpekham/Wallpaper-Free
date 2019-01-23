@@ -53,6 +53,106 @@
     ],
     "Wallpapers":[
 	    	 {
+			"name": "BluredSunRise",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/sU78K9m.png",
+			"thumbUrl": "https://i.imgur.com/npsoRt3.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "OrangeCloudOverMountains",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/SigVL20.png",
+			"thumbUrl": "https://i.imgur.com/xlnFtst.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TwoMinimalLightBulb",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/kFoVbAU.png",
+			"thumbUrl": "https://i.imgur.com/20njKHO.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ColorfulCloudsOverValley",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/znNnNDT.png",
+			"thumbUrl": "https://i.imgur.com/ajRnrl7.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "DarkRoads",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/3Iq1HB3.png",
+			"thumbUrl": "https://i.imgur.com/ZAY6p8W.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "UncountableStars",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/818vVf1.png",
+			"thumbUrl": "https://i.imgur.com/C6n7SVy.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ColorfulCloudsOverUmbrella",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/52Je9UT.png",
+			"thumbUrl": "[Imgur](https://i.imgur.com/MpJmtZa.png)",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "DarkBlueGalxy",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/JY1sy0z.png",
+			"thumbUrl": "https://i.imgur.com/9NGaW9K.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "HidingSunBehindMountains",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/1dSCC4m.png",
+			"thumbUrl": "https://i.imgur.com/7DDpiMB.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "PurpleCloudsOverMountains",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/71vfLgv.png",
+			"thumbUrl": "https://i.imgur.com/tTg5jCW.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	    	{
 			"name": "BlueChairSandyBeach",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/bUMXsTI.png",
