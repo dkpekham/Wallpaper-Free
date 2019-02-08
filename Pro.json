@@ -53,6 +53,321 @@
     ],
     "Wallpapers":[
 	    	 {
+			"name": "BigOffice",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/LLVF5Zt.png",
+			"thumbUrl": "https://i.imgur.com/rn5D1Ky.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BrightLightAtNight",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/l9N6W9M.png",
+			"thumbUrl": "https://i.imgur.com/sPCauBK.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SimpleBuilding",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/9pw7Zdf.png",
+			"thumbUrl": "https://i.imgur.com/lYeW2vI.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BrightCity",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/qPOsIHw.png",
+			"thumbUrl": "https://i.imgur.com/h9p8H7a.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BricksBuilding",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/u75g2x0.png",
+			"thumbUrl": "https://i.imgur.com/9Eo8GIY.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "PlaneAtSunSet",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/LcKWPAw.png",
+			"thumbUrl": "https://i.imgur.com/dlY3Nmq.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BlueBuilding",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/DysK4dC.png",
+			"thumbUrl": "https://i.imgur.com/WD8WZQY.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BrownBuilding",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/2TVESxW.png",
+			"thumbUrl": "https://i.imgur.com/SvC3ktt.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BuildingGlass",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/bF4i3wy.png",
+			"thumbUrl": "https://i.imgur.com/t6AmuQu.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "FlyingToHeight",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/m1sCPo1.png",
+			"thumbUrl": "https://i.imgur.com/TFQcc6g.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "landing",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/wI8OuZm.png",
+			"thumbUrl": "https://i.imgur.com/Fto99zQ.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "FlyAtNight",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/MszOSSv.png",
+			"thumbUrl": "https://i.imgur.com/59ZXTkx.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "DawnCity",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/MCvIMgJ.png",
+			"thumbUrl": "https://i.imgur.com/o9R8ues.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "FlyingOerCity",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/0bAv9gu.png",
+			"thumbUrl": "https://i.imgur.com/ySkxUQ3.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "FlightAtCentre",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/9fao8yi.png",
+			"thumbUrl": "https://i.imgur.com/tgwrTT7.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Windows",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Nrh11As.png",
+			"thumbUrl": "https://i.imgur.com/KF9DfhB.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TravelHigh",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/vrfv1bZ.png",
+			"thumbUrl": "https://i.imgur.com/fLVZOQ2.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "LightArt",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/GZmpra1.png",
+			"thumbUrl": "https://i.imgur.com/ljnspVZ.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ReadyForWar",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Lb6R62l.png",
+			"thumbUrl": "https://i.imgur.com/IO3EmoI.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TakeOff",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/6dZHPJR.png",
+			"thumbUrl": "https://i.imgur.com/RC6oh6q.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "CurvedLight",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/eR73nzR.png",
+			"thumbUrl": "https://i.imgur.com/fyCtKLD.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "RacingPlane",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/UeIGuUu.png",
+			"thumbUrl": "https://i.imgur.com/34KLIDH.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "IntoTheClouds",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/fykF08l.png",
+			"thumbUrl": "https://i.imgur.com/IIIx5OU.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "WhiteSmokeOfPlane",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/mEDxIiS.png",
+			"thumbUrl": "https://i.imgur.com/QzfV6qG.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "WatchHigh",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/6tCioBm.png",
+			"thumbUrl": "https://i.imgur.com/G9CDldI.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "WhiteBuilding",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/yN6nUgG.png",
+			"thumbUrl": "https://i.imgur.com/QiRT96p.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TouchingSky",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/tJJnFDz.png",
+			"thumbUrl": "https://i.imgur.com/jLEX7Sb.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "PlaneInEvening",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/DrcvID3.png",
+			"thumbUrl": "https://i.imgur.com/KNVQQHC.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "PlaneInPinkClouds",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/D57WB6P.png",
+			"thumbUrl": "https://i.imgur.com/7pFZBPF.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "InTheRaddar",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/P3uUjI2.png",
+			"thumbUrl": "https://i.imgur.com/Hl1nDZ5.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "WitnessTheCrash",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/OC7OXJc.png",
+			"thumbUrl": "https://i.imgur.com/TWOxiVW.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "UnknownCrow",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ee6jSPo.png",
+			"thumbUrl": "https://i.imgur.com/p5ZawIu.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TheHangingBridge",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/e7zsVwM.png",
+			"thumbUrl": "https://i.imgur.com/4hnwVfQ.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "WhiteBlock",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/t3kfdKs.png",
+			"thumbUrl": "https://i.imgur.com/fy2fyjN.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Triangle",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/vMkSjFz.png",
+			"thumbUrl": "https://i.imgur.com/wqMu8gh.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+	    	{
 			"name": "AmawasyaKiRaat",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/uV6brP4.png",
