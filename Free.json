@@ -52,7 +52,507 @@
         }
     ],
     "Wallpapers":[
-	    	 {
+	    	   {
+			"name": "ColorfulCity",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/abekEQh.png",
+			"thumbUrl": "https://i.imgur.com/z8yF82y.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "HangingsBird",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/sTAJXwM.png",
+			"thumbUrl": "https://i.imgur.com/Jro2zfy.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "HightView",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/4h9hWOQ.png",
+			"thumbUrl": "https://i.imgur.com/wrJ1UzH.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "LittleFeather",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/OM3YdHg.png",
+			"thumbUrl": "https://i.imgur.com/VA3CKHa.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "JuryOfCamel",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/PTNVspP.png",
+			"thumbUrl": "https://i.imgur.com/eeSo3BG.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "F19",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/NQMv3X1.png",
+			"thumbUrl": "https://i.imgur.com/hfQ8jDh.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "DesertVally",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/IuIeRdI.png",
+			"thumbUrl": "https://i.imgur.com/2GhWDBn.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "FruntUmbrella",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ZhAYXW6.png",
+			"thumbUrl": "https://i.imgur.com/eumzur5.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "F13",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/4uNbNpv.png",
+			"thumbUrl": "https://i.imgur.com/VVyNWpQ.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "F8",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/OiwPQUo.png",
+			"thumbUrl": "https://i.imgur.com/8Sx998x.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "FinalTrek",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/dKCzY5c.png",
+			"thumbUrl": "https://i.imgur.com/N37jaJ5.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "F22",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/2KoHpq7.png",
+			"thumbUrl": "https://i.imgur.com/wZyufCr.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ColorfulUmbrella",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/6mlyYyt.png",
+			"thumbUrl": "https://i.imgur.com/6bMth8y.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ColorfulLader",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/BV88WAm.png",
+			"thumbUrl": "https://i.imgur.com/QFKpRbx.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BrightSwimmingPool",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/6HN2jiy.png",
+			"thumbUrl": "https://i.imgur.com/QmPBl5F.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ColorfulDining",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/x6bDFg7.png",
+			"thumbUrl": "https://i.imgur.com/lejAf7k.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Desert",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/UJ98beh.png",
+			"thumbUrl": "https://i.imgur.com/lPzyscJ.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "DarkFill",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Yz51LbQ.png",
+			"thumbUrl": "https://i.imgur.com/HMSNktd.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "DesertInBlue",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/aCdYM2i.png",
+			"thumbUrl": "https://i.imgur.com/N2JH0UZ.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Distance",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/S8xN1J0.png",
+			"thumbUrl": "https://i.imgur.com/54Rnt5B.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "AncientArt",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/BWt0kYP.png",
+			"thumbUrl": "https://i.imgur.com/rBKKcoO.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BirdOnBud",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/2jSzIyB.png",
+			"thumbUrl": "https://i.imgur.com/4n4K1lJ.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Pankhoori",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/QMEYUyG.png",
+			"thumbUrl": "https://i.imgur.com/EJjPSWA.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ChitkabriUlloo",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/6k6GpZu.png",
+			"thumbUrl": "https://i.imgur.com/Pbu5KyQ.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SunSetLive",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ZDOnZ5b.png",
+			"thumbUrl": "https://i.imgur.com/vKPxBj4.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "F2",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/3K7cgqb.png",
+			"thumbUrl": "https://i.imgur.com/Em8mDV7.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Blues",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ktBgb12.png",
+			"thumbUrl": "https://i.imgur.com/Fghe6cR.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BaroDanaChiller",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/aBT8o4N.png",
+			"thumbUrl": "https://i.imgur.com/4s1tXwa.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BlueEggs",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/gzmB5bO.png",
+			"thumbUrl": "https://i.imgur.com/u73GIP8.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "MountainDesert",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/mo2ElGq.png",
+			"thumbUrl": "https://i.imgur.com/DWp3Njg.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SundorKokil",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/EJKeoxT.png",
+			"thumbUrl": "https://i.imgur.com/AOqJ7C7.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Paints",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/JWb0LET.png",
+			"thumbUrl": "https://i.imgur.com/Z6EMupa.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "YellowEyedOwl",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/iE0BEuB.png",
+			"thumbUrl": "https://i.imgur.com/KBASnYe.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "WaterPaints",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/hLurvYD.png",
+			"thumbUrl": "https://i.imgur.com/maiAUYv.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Window",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/XpbWTSo.png",
+			"thumbUrl": "https://i.imgur.com/dAD9LWu.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Shiva",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Ie31sSd.png",
+			"thumbUrl": "https://i.imgur.com/hTcXYs7.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "RedBlurLeaves",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/GbZ2DCy.png",
+			"thumbUrl": "https://i.imgur.com/xjW5dNB.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "PurpleTower",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/dpXbmqm.png",
+			"thumbUrl": "https://i.imgur.com/48dP0HF.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "NaturalCap",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/edJE99j.png",
+			"thumbUrl": "https://i.imgur.com/Wo2QAFU.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Morning",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/7xRWE8E.png",
+			"thumbUrl": "https://i.imgur.com/MRtH0kl.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Structure",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/hggPHNp.png",
+			"thumbUrl": "https://i.imgur.com/NHj6oMb.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "RainbowOver",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/9Wn1kMJ.png",
+			"thumbUrl": "https://i.imgur.com/FswsnlV.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "MinimalNature",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/pETptry.png",
+			"thumbUrl": "https://i.imgur.com/Ofy1PPi.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "MoonMoon",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/0PsiyoU.png",
+			"thumbUrl": "https://i.imgur.com/6vLLsCx.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "AncientStructure",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/RjTV6pV.png",
+			"thumbUrl": "https://i.imgur.com/7mT44pH.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "GreyBird",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/v6098h1.png",
+			"thumbUrl": "https://i.imgur.com/y9XgV3X.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "BlurChil",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/pAcXIKL.png",
+			"thumbUrl": "https://i.imgur.com/QfhnhLo.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Ancient",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/HwpMeJK.png",
+			"thumbUrl": "https://i.imgur.com/qmnE3ym.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BrightDay",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/CWjRBa0.png",
+			"thumbUrl": "https://i.imgur.com/cGbITx5.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Lap",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ggCxdsW.png",
+			"thumbUrl": "https://i.imgur.com/1RYUe45.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
 			"name": "ColorSpot",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/mxOQOZI.png",
