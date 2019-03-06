@@ -53,6 +53,495 @@
     ],
     "Wallpapers":[
 	    	 {
+			"name": "CloudsFloating",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/pwwymy6.png",
+			"thumbUrl": "https://i.imgur.com/BnXqovl.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+		        "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BlurLeaves",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/CBgJZJO.png",
+			"thumbUrl": "https://i.imgur.com/ZK7bLQO.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BlueIce",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/8KbSsWK.png",
+			"thumbUrl": "https://i.imgur.com/itNGotx.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BigStones",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/px6hgci.png",
+			"thumbUrl": "https://i.imgur.com/xc9K00X.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BridgeLamp",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/GWQeTCq.png",
+			"thumbUrl": "https://i.imgur.com/o35MOL7.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BrokenSnow",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/z2XLGSk.png",
+			"thumbUrl": "https://i.imgur.com/2dwL8lf.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BlurWhite",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/S44jyBj.png",
+			"thumbUrl": "https://i.imgur.com/7RCsoHQ.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "DayLight",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/30KdiAu.png",
+			"thumbUrl": "https://i.imgur.com/LOBieap.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ColorfulMountains",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/w1SyNNT.png",
+			"thumbUrl": "https://i.imgur.com/A3xAaVE.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Avatar",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/YTOHIRw.png",
+			"thumbUrl": "https://i.imgur.com/UvEZ8kk.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+			    {
+			"name": "FrostedPineTrees",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/HBT61u0.png",
+			"thumbUrl": "https://i.imgur.com/TvZOPym.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+		        "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "FrostedRoad",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/A7blv57.png",
+			"thumbUrl": "https://i.imgur.com/ZfC7Kb8.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "FloatingIc",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/GK3Nt0s.png",
+			"thumbUrl": "https://i.imgur.com/OAggrqk.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "EarthView",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/VOxELJ8.png",
+			"thumbUrl": "https://i.imgur.com/TGqzQeY.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Drops",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/2SbMnVL.png",
+			"thumbUrl": "https://i.imgur.com/VqDV2mC.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "DistanceView",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/7U0OcWV.png",
+			"thumbUrl": "https://i.imgur.com/509Oyox.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "GreenPines",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/shW9kz0.png",
+			"thumbUrl": "https://i.imgur.com/LMdkzH8.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "GreenOcean",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/kFVQO9q.png",
+			"thumbUrl": "https://i.imgur.com/0q3Rgmp.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Galaxy",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/q63B9Yq.png",
+			"thumbUrl": "https://i.imgur.com/bnq3kkg.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Froast",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/XHvoRm4.png",
+			"thumbUrl": "https://i.imgur.com/1L8XGTB.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "MountainsWithSnow",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/pJ01xeF.png",
+			"thumbUrl": "https://i.imgur.com/Nyve9LS.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+		        "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "HardIce",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/QDa5Kmg.png",
+			"thumbUrl": "https://i.imgur.com/IsAGzlS.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "HalfWaterIce",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/KwXzdfr.png",
+			"thumbUrl": "https://i.imgur.com/WPuecOj.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Houses",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/L3OQzdz.png",
+			"thumbUrl": "https://i.imgur.com/CD9BLiy.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "HardRock",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/8ho1E3g.png",
+			"thumbUrl": "https://i.imgur.com/O7ixbLk.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Mountains",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/PRlU8cs.png",
+			"thumbUrl": "https://i.imgur.com/BVxMzy7.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "MonkeyBridge",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/dj41Ox3.png",
+			"thumbUrl": "https://i.imgur.com/GjYkswk.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "MirrorOfIce",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/DfTiqXI.png",
+			"thumbUrl": "https://i.imgur.com/jQClsfl.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "MountTop",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/jTDa87y.png",
+			"thumbUrl": "https://i.imgur.com/x79m50M.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "GreenShadow",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/x7mr77Z.png",
+			"thumbUrl": "https://i.imgur.com/yMY4zQs.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "SeaValley",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/IXlzzS7.png",
+			"thumbUrl": "https://i.imgur.com/lp56oEN.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+		        "downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "RostSea",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/RGqfdAS.png",
+			"thumbUrl": "https://i.imgur.com/gSBoCzc.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Sea",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/pAdjR0G.png",
+			"thumbUrl": "https://i.imgur.com/afWUZCf.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SandOfIce",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/w7AaRut.png",
+			"thumbUrl": "https://i.imgur.com/a0Qpah9.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "OnlySnow",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/EwRZlG1.png",
+			"thumbUrl": "https://i.imgur.com/pawClvB.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ReadyWays",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/J9qn9xz.png",
+			"thumbUrl": "https://i.imgur.com/sySoXa3.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "RainingSnow",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/j8fsnoi.png",
+			"thumbUrl": "https://i.imgur.com/WMWGrpH.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "RoadsThroughJungles",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/YVBEioR.png",
+			"thumbUrl": "https://i.imgur.com/unqJ0IQ.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SmallHome",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Y62GXQ6.png",
+			"thumbUrl": "https://i.imgur.com/gdqHtoN.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "PineTrees",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/iPLmv45.png",
+			"thumbUrl": "https://i.imgur.com/kV82BKq.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SurroundedLake",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/VFQQwPk.png",
+			"thumbUrl": "https://i.imgur.com/GsKFCit.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SnowSlope",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/661ubgv.png",
+			"thumbUrl": "https://i.imgur.com/X2yKH1b.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "StillLake",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/DkXarDO.png",
+			"thumbUrl": "https://i.imgur.com/winsG5h.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "StonesAndMountains",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/2IAzeDM.png",
+			"thumbUrl": "https://i.imgur.com/pWxOmIr.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SnowFull",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/5MkVtbV.png",
+			"thumbUrl": "https://i.imgur.com/K7A4Qbs.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SnowFever",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/bre4poq.png",
+			"thumbUrl": "https://i.imgur.com/1g5pHGa.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SnowFloor",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/5z5TPKH.png",
+			"thumbUrl": "https://i.imgur.com/TUdWBPU.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "SnowWall",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/pAgHynJ.png",
+			"thumbUrl": "https://i.imgur.com/gUcFE1W.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TistaLike",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/p4i44As.png",
+			"thumbUrl": "https://i.imgur.com/ipq3xjj.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
 			"name": "Winter Evenings Two",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/RASAGi4.png",
