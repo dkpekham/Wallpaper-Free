@@ -53,6 +53,87 @@
     ],
     "Wallpapers":[
 	    	 {
+			"name": "WhiteLeaves",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/oHgcgPa.png",
+			"thumbUrl": "https://i.imgur.com/IU5Tqz9.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "WhiteGlory",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/MFMCpzB.png",
+			"thumbUrl": "https://i.imgur.com/lsezHit.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "ValleyOfSnow",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ggjM267.png",
+			"thumbUrl": "https://i.imgur.com/xRgBHuM.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "YellowShadow",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Xb3UcGF.png",
+			"thumbUrl": "https://i.imgur.com/vCfhrCR.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "WetStones",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/eek1JiC.png",
+			"thumbUrl": "https://i.imgur.com/S6dQMUV.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TreesInDark",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ApsnFpP.png",
+			"thumbUrl": "https://i.imgur.com/1Ep6CzB.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+			   {
+			"name": "WhiteDiomondLeaves",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/yktQnlI.png",
+			"thumbUrl": "https://i.imgur.com/lpmP2f6.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TrekHigh",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/2KG8BuS.png",
+			"thumbUrl": "https://i.imgur.com/uGv1wCd.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Triangles",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/pZJELFj.png",
+			"thumbUrl": "https://i.imgur.com/uY6lxS7.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+	    	{
 			"name": "Snow Two",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/R3XtcIV.png",
