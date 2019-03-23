@@ -53,6 +53,246 @@
     ],
     "Wallpapers":[
 	    	 {
+			"name": "MoonCity",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/4EKiRss.png",
+			"thumbUrl": "https://i.imgur.com/knxgZpi.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Kachua",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/cPx2kEh.png",
+			"thumbUrl": "https://i.imgur.com/mPti05o.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Sasea",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/By8K59F.png",
+			"thumbUrl": "https://i.imgur.com/byf2jVe.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "UnderWater",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/o6reuCh.png",
+			"thumbUrl": "https://i.imgur.com/D9zXHOT.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Parchai",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/pFX5VS0.png",
+			"thumbUrl": "https://i.imgur.com/1nDS98G.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "PurpleApcha",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/vmwTiu3.png",
+			"thumbUrl": "https://i.imgur.com/eVjoHTA.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Pahar",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/GpuiL78.png",
+			"thumbUrl": "https://i.imgur.com/ZXyExCZ.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Hills",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/GtKwpdN.png",
+			"thumbUrl": "https://i.imgur.com/ln1Wzlh.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "MinimalCity",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/QCMpMdf.png",
+			"thumbUrl": "https://i.imgur.com/bPa2Oyx.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BlueWhale",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/PFWZlM0.png",
+			"thumbUrl": "https://i.imgur.com/vFadhtA.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Glacier",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/2N5TUuH.png",
+			"thumbUrl": "https://i.imgur.com/tIO2d6Q.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Glacier2",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/EG6EfrK.png",
+			"thumbUrl": "https://i.imgur.com/6h1Mcpo.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Goddess",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Sp6eHPY.png",
+			"thumbUrl": "https://i.imgur.com/5iuEnzP.pngx",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BrownPahar",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Nm0w3BR.png",
+			"thumbUrl": "https://i.imgur.com/VLrfLnB.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Lightning",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/nLWE3UQ.png",
+			"thumbUrl": "https://i.imgur.com/CIxIfIe.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "MinimalSky",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/mJLRahs.png",
+			"thumbUrl": "https://i.imgur.com/5CZ8x8k.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Birdo",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/T7KS8f9.png",
+			"thumbUrl": "https://i.imgur.com/qKukf9K.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BlackWall",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/P4TpYGv.png",
+			"thumbUrl": "https://i.imgur.com/H6nYMMt.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BrightDay",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Cv1nqBo.png",
+			"thumbUrl": "https://i.imgur.com/6XhcvTs.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Bakri",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ZzRr3ni.png",
+			"thumbUrl": "https://i.imgur.com/QtRq2Ie.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "GlowingWhale",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/pHoeClV.png",
+			"thumbUrl": "https://i.imgur.com/5Aenx8c.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Clouds",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Ds5DNL1.png",
+			"thumbUrl": "https://i.imgur.com/jP4f4KD.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "MinimalBird",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/8UHzig5.png",
+			"thumbUrl": "https://i.imgur.com/khZGKhr.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "NatureSun",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/bA9Nnlh.png",
+			"thumbUrl": "https://i.imgur.com/ZSVwQXm.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	    	{
 			"name": "Polygon Nineteen",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/ypOsRKK.png",
