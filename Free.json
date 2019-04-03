@@ -53,6 +53,236 @@
     ],
     "Wallpapers":[
 	    	 {
+			"name": "TT",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/hZBfAte.png",
+			"thumbUrl": "https://i.imgur.com/GvVWjv5.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TSv",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/0oZzbrC.png",
+			"thumbUrl": "https://i.imgur.com/qnGyT3d.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+  		        "copyright": "Personal Use"
+		},
+		{
+			"name": "TEL",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ZEbW8My.png",
+			"thumbUrl": "https://i.imgur.com/BOsQYCz.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},	   
+		{
+			"name": "TFv",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/myxFkAb.png",
+			"thumbUrl": "https://i.imgur.com/RGb7f3y.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},	   
+		{
+			"name": "TN",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/qmCX3RO.png",
+			"thumbUrl": "https://i.imgur.com/RYz0MD0.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TTn",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/N4MKEou.png",
+			"thumbUrl": "https://i.imgur.com/de6VcTe.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TF",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/9pqGFcR.png",
+			"thumbUrl": "https://i.imgur.com/ZkiYMW5.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "LTh",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ZNwU8Rx.png",
+			"thumbUrl": "https://i.imgur.com/oGTdSo7.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},	   
+		{
+			"name": "TE",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/05h6gTD.png",
+			"thumbUrl": "https://i.imgur.com/kb3RTAm.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},	   
+		{
+			"name": "TTh",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/VExpTej.png",
+			"thumbUrl": "https://i.imgur.com/epIeaw9.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "LT",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ClbKIM0.png",
+			"thumbUrl": "https://i.imgur.com/CGYgLjX.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TS",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/i19Ev9O.png",
+			"thumbUrl": "https://i.imgur.com/avS2xpR.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TO",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ITJgwTs.png",
+			"thumbUrl": "https://i.imgur.com/zqMnI6n.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},	  
+		{
+			"name": "LO",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/rIJiGB4.png",
+			"thumbUrl": "https://i.imgur.com/nloQdng.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},	   
+		{
+			"name": "CS",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/CVGbjOy.png",
+			"thumbUrl": "https://i.imgur.com/8WCYxwC.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "CT",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/1YGhI20.png",
+			"thumbUrl": "https://i.imgur.com/0FiGY5x.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "CO",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/2BI3pZ8.png",
+			"thumbUrl": "https://i.imgur.com/2d0I7Lb.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "CTh",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/eeAvYcA.png",
+			"thumbUrl": "https://i.imgur.com/gnXMYl3.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},	   
+		{
+			"name": "CFv",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/opgtLN6.png",
+			"thumbUrl": "https://i.imgur.com/38GkevH.png",
+			"collections": "wildife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},	   
+		{
+			"name": "CF",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/DtvOi2M.png",
+			"thumbUrl": "https://i.imgur.com/7ZfNVul.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+                {
+			"name": "DO",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/66ySjP0.png",
+			"thumbUrl": "https://i.imgur.com/pWWkmdh.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+		        "downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "LF",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/cMTTlqE.png",
+			"thumbUrl": "https://i.imgur.com/4CoAnZ6.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
+			"name": "CSv",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/233KUO5.png",
+			"thumbUrl": "https://i.imgur.com/Uudfhik.png",
+			"collections": "wildlife",
+			"dimensions": "1440x2560",
+			"downloadable":false,
+			"copyright": "Personal Use"
+		},
+	        {
 			"name": "Machines",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/IUcyE35.png",
