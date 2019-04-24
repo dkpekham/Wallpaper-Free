@@ -53,6 +53,78 @@
     ],
     "Wallpapers":[
 	    	 {
+			"name": "Shore",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/vX4F1JU.png",
+			"thumbUrl": "xxx",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Lightful",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/TEzlMCC.png",
+			"thumbUrl": "https://i.imgur.com/YuQeObD.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "TheRest",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Lf8R0II.png",
+			"thumbUrl": "https://i.imgur.com/Fv78s71.png",
+			"collections": "Travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Boat",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/IfuxiOx.png",
+			"thumbUrl": "https://i.imgur.com/xeFYNTz.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Sundrop",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/RUfF4rh.png",
+			"thumbUrl": "https://i.imgur.com/lbIVscx.png",
+			"collections": "nature",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Fisher",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/bCEn6K2.png",
+			"thumbUrl": "https://i.imgur.com/t5aDXcG.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "BlurLeaves",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/ZeCXHzc.png",
+			"thumbUrl": "https://i.imgur.com/ytCk2uT.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Ride",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/Q9Xy9OB.png",
+			"thumbUrl": "https://i.imgur.com/4jjJkAy.png",
+			"collections": "travel",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+	    	{
 			"name": "TT",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/hZBfAte.png",
