@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
 	    	 {
+			"name": "Flower7",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/CfBlTLa.png",
+			"thumbUrl": "https://i.imgur.com/xWU1aQZ.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Flower3",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/VTgFeio.png",
+			"thumbUrl": "https://i.imgur.com/qXpUIGn.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Flower1",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/u5xzWu8.png",
+			"thumbUrl": "https://i.imgur.com/7gbmD0N.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Flower6",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/E781YyH.png",
+			"thumbUrl": "https://i.imgur.com/I0cJpW6.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+		{
+			"name": "Field",
+			"author": "Dipak",
+			"url": "https://i.imgur.com/1n0iEPE.png",
+			"thumbUrl": "https://i.imgur.com/AZdcPeQ.png",
+			"collections": "random",
+			"dimensions": "1440x2560",
+			"copyright": "Personal Use"
+		},
+	    	{
 			"name": "Shore",
 			"author": "Dipak",
 			"url": "https://i.imgur.com/vX4F1JU.png",
